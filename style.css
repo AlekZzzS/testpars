@@ -1,0 +1,19 @@
+.news__card-title, .enter{
+    border: 1px solid blue;
+    margin-left: auto;
+    margin-right: auto;
+    
+    width: 700px;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    padding: 20px;
+  }
+  .news__date {
+    padding-left: 60%;
+  }
+  form {
+    border: 1px solid blue;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
